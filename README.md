@@ -149,19 +149,3 @@ streamlit run app.py
    The application will display the **similarity score**, indicating how well the resume matches the job description.
 
 ---
-
-## 🤝 Contributing
-🚀 Contributions are welcome! If you'd like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`feature-name`).
-3. Commit your changes.
-4. Push the branch and create a pull request.
-
-Please read the **`CONTRIBUTING.md`** file for detailed contribution guidelines.
-
----
-
-## 📜 License
-📜 This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
