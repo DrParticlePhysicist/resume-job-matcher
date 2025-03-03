@@ -1,0 +1,4 @@
+Jane Smith
+Data Scientist
+Skills: Python, TensorFlow, SQL, Data Analysis
+Experience: 3 years at DataSolutions

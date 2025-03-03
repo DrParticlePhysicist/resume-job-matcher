@@ -1,0 +1,17 @@
+job_title,required_skills,experience_required
+Software Engineer,"Python, Django, Cloud, SQL, REST APIs, Git",3
+Data Scientist,"Python, TensorFlow, Big Data, NLP, Pandas, PyTorch, SQL",4
+AI Engineer,"Deep Learning, Computer Vision, PyTorch, Machine Learning, CUDA, OpenCV",5
+Cloud Engineer,"AWS, Azure, Kubernetes, Docker, Terraform, Networking",4
+Full Stack Developer,"React, Node.js, Express, MongoDB, TypeScript, CI/CD, GraphQL",3
+DevOps Engineer,"Kubernetes, Docker, Jenkins, AWS, Terraform, CI/CD, Monitoring",4
+Cybersecurity Analyst,"Penetration Testing, Network Security, SIEM, Firewalls, Python",5
+Marketing Manager,"SEO, Google Ads, Facebook Ads, Digital Marketing, Analytics",4
+Project Manager,"Agile, Scrum, Leadership, Jira, Risk Management, PMP",5
+Business Analyst,"SQL, BI Tools, Data Analysis, Excel, Tableau, Power BI",3
+NLP Engineer,"Transformers, GPT, BERT, NLTK, Spacy, Hugging Face, TensorFlow",4
+Data Engineer,"ETL, SQL, Spark, Hadoop, Data Warehousing, Cloud Data Platforms",3
+Game Developer,"Unity, Unreal Engine, C++, C#, Shader Programming, Game Physics",4
+Embedded Systems Engineer,"C, C++, Microcontrollers, RTOS, Embedded Linux, IoT",5
+Blockchain Developer,"Ethereum, Solidity, Smart Contracts, DeFi, Web3, Hyperledger",3
+QA Engineer,"Automation Testing, Selenium, JUnit, API Testing, Jenkins, Agile",3
